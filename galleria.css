@@ -1,0 +1,96 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+}
+.line{
+  margin-top: 10px
+
+}
+.plus{
+padding: 40px;
+
+}
+.album{
+  font-family: sans-serif;
+  width: 90%;
+  height:40px;
+  line-height: 40px;
+  font-size: 30px;
+  margin: auto;
+
+}
+.see-all{
+color: lightblue;
+float: right;
+margin-right: 10px;
+font-size: 20px;
+}
+
+main{
+  width: 90%;
+  height: 100vh;
+  margin: auto;
+}
+
+.row{
+  width: 90%;
+  margin-top: 25px;
+  margin: auto;
+}
+
+.container-foto{
+  margin-top: 30px;
+  float: left;
+  margin-left: 15px;
+
+}
+
+.foto{
+  background-image: url(roma.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 100px;
+}
+.recenti{
+  font-family: monospace;
+  margin-top: 10px;
+
+}
+
+.number{
+  font-family: monospace;
+  color: grey;
+  margin-top: 5px;
+}
+
+.foto1{
+  background-image: url(berlino.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 100px;
+}
+.foto2{
+  background-image: url(berlino2.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 100px;
+}
+.foto3{
+  background-image: url(budapest.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 100px;
+}
+
+.foto4{
+  background-image: url(madrid.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 100px;
+}
+.foto5{
+  background-image: url(parigi.jpg);
+  background-size: cover;
+  width: 150px;
+  height: 100px;
+}
